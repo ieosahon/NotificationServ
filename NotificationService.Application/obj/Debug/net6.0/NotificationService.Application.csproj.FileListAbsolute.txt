@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\bin\Debug\net6.0\NotificationService.Application.deps.json
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\bin\Debug\net6.0\NotificationService.Application.dll
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\bin\Debug\net6.0\NotificationService.Application.pdb
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\bin\Debug\net6.0\NotificationService.Domain.dll
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\bin\Debug\net6.0\NotificationService.Domain.pdb
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\NotificationService.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\NotificationService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\NotificationService.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\NotificationService.Application.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\NotificationService.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\Notifica.DAFDC56B.Up2Date
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\NotificationService.Application.dll
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\refint\NotificationService.Application.dll
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\NotificationService.Application.pdb
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Application\obj\Debug\net6.0\ref\NotificationService.Application.dll

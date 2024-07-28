@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73F7DC90-BD55-4A9C-9BA4-3F78DC6B1DB5}|..\\NotificationService.Application\\NotificationService.Application.csproj|c:\\users\\lenovo\\desktop\\teaching\\notificationmicroservice\\notificationservice.application\\dtos\\request\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F52A8-61C3-4F7F-A74E-62B91BE2C728}|NotificationService.csproj|c:\\users\\lenovo\\desktop\\teaching\\notificationmicroservice\\notificationservice\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81F52A8-61C3-4F7F-A74E-62B91BE2C728}|NotificationService.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F52A8-61C3-4F7F-A74E-62B91BE2C728}|NotificationService.csproj|c:\\users\\lenovo\\desktop\\teaching\\notificationmicroservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81F52A8-61C3-4F7F-A74E-62B91BE2C728}|NotificationService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F52A8-61C3-4F7F-A74E-62B91BE2C728}|NotificationService.csproj|c:\\users\\lenovo\\desktop\\teaching\\notificationmicroservice\\notificationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C81F52A8-61C3-4F7F-A74E-62B91BE2C728}|NotificationService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Persistence\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\ServiceRegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\NotificationService.Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\NotificationService.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Enums\\NotificationType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Entity\\NotificationActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\GlobalUsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService.Application\\DTOs\\Request\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "..\\NotificationService.Application\\DTOs\\Request\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService.Application\\DTOs\\Request\\EmailMessage.cs",
+              "RelativeToolTip": "..\\NotificationService.Application\\DTOs\\Request\\EmailMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:21:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T10:08:59.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:46:13.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationMicroService\\NotificationService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T18:39:33.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Service\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\ServiceRegistration.cs",
+              "RelativeToolTip": "..\\..\\NotificationService.Service\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:19:58.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationService.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\NotificationService.Service.csproj",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Service\\NotificationService.Service.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\NotificationService.Service.csproj",
+              "RelativeToolTip": "..\\..\\NotificationService.Service\\NotificationService.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T18:17:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Service\\EmailService.cs",
+              "RelativeToolTip": "..\\..\\NotificationService.Service\\EmailService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowE0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:17:13.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificationService.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\NotificationService.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Domain\\NotificationService.Domain.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\NotificationService.Domain.csproj",
+              "RelativeToolTip": "..\\..\\NotificationService.Domain\\NotificationService.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T15:36:07.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Enums\\NotificationType.cs",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Domain\\Enums\\NotificationType.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Enums\\NotificationType.cs",
+              "RelativeToolTip": "..\\..\\NotificationService.Domain\\Enums\\NotificationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:34:09.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationActivity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Entity\\NotificationActivity.cs",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Domain\\Entity\\NotificationActivity.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Entity\\NotificationActivity.cs",
+              "RelativeToolTip": "..\\..\\NotificationService.Domain\\Entity\\NotificationActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:33:52.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Domain\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\GlobalUsing.cs",
+              "RelativeToolTip": "..\\..\\NotificationService.Domain\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:33:27.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Application\\Class1.cs",
+              "RelativeToolTip": "..\\..\\NotificationService.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:32:42.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Persistence\\Class1.cs",
+              "RelativeToolTip": "..\\..\\NotificationService.Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:32:07.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\NotificationService.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Teaching\\NotificationService.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\..\\NotificationService.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:31:38.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

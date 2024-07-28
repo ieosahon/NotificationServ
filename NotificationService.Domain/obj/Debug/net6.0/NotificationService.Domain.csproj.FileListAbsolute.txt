@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\bin\Debug\net6.0\NotificationService.Domain.deps.json
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\bin\Debug\net6.0\NotificationService.Domain.dll
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\bin\Debug\net6.0\NotificationService.Domain.pdb
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\NotificationService.Domain.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\NotificationService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\NotificationService.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\NotificationService.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\NotificationService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\NotificationService.Domain.dll
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\refint\NotificationService.Domain.dll
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\NotificationService.Domain.pdb
+C:\Users\LENOVO\Desktop\Teaching\NotificationService.Domain\obj\Debug\net6.0\ref\NotificationService.Domain.dll
